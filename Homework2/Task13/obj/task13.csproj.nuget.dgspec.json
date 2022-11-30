@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Geekbrains\\Seminar_C#\\Seminar2\\homework2\\task13\\task13.csproj": {}
+    "G:\\Geekbrains\\Seminar_C#\\HomeTasks2\\Homework2\\Task13\\task13.csproj": {}
   },
   "projects": {
-    "G:\\Geekbrains\\Seminar_C#\\Seminar2\\homework2\\task13\\task13.csproj": {
+    "G:\\Geekbrains\\Seminar_C#\\HomeTasks2\\Homework2\\Task13\\task13.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Geekbrains\\Seminar_C#\\Seminar2\\homework2\\task13\\task13.csproj",
+        "projectUniqueName": "G:\\Geekbrains\\Seminar_C#\\HomeTasks2\\Homework2\\Task13\\task13.csproj",
         "projectName": "task13",
-        "projectPath": "G:\\Geekbrains\\Seminar_C#\\Seminar2\\homework2\\task13\\task13.csproj",
+        "projectPath": "G:\\Geekbrains\\Seminar_C#\\HomeTasks2\\Homework2\\Task13\\task13.csproj",
         "packagesPath": "C:\\Users\\vip\\.nuget\\packages\\",
-        "outputPath": "G:\\Geekbrains\\Seminar_C#\\Seminar2\\homework2\\task13\\obj\\",
+        "outputPath": "G:\\Geekbrains\\Seminar_C#\\HomeTasks2\\Homework2\\Task13\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vip\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,9 +1,14 @@
 ﻿Console.Clear();
-Console.Write("Введите любое число от 1 до 999: ");
+Console.Write("Введите любое число: ");
 int a = Convert.ToInt32(Console.ReadLine());
-int a1 = a / 100 % 10;
-if(a1 > 0)
-    Console.Write(a1);
-else
-    Console.Write("третьей цифры нет");    
 
+if(a < 100)
+    Console.WriteLine("третьей цифры нет");
+else 
+{
+    while (a > 1000)
+       a = a / 10;
+
+    Console.WriteLine(a % 10);    
+
+}
